@@ -1,4 +1,4 @@
-# hydration 单纯是开销
+# hydration 纯粹是开销
 
 > 原文：https://www.builder.io/blog/hydration-is-pure-overhead
 
