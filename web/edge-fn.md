@@ -162,7 +162,7 @@ serverless意味着更少的 DevOps 和（可能）更低的成本，但冷启�
 
 edge的美妙之处在于它利用了 CDN 的最佳部分（靠近用户）和serverless的最佳部分（运行函数）并将它们结合在一起。
 
-![edge](./img/edge/img_6.png)
+![edge](./img/edge/img_7.png)
 
 使用边缘，您可以执行靠近用户的自定义代码。这有很多好处。
 
