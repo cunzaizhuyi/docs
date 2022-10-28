@@ -1,5 +1,7 @@
 # web的未来是边缘计算
 
+> 原文：https://deno.com/blog/the-future-of-web-is-on-the-edge
+
 在最开始，在瑞士的一张桌子上有一台计算机，上面有一句红色文案：这是一台不会关闭的机器。
 
 ![红色标签](./img/edge/img.png) 
